@@ -1,123 +1,20 @@
----
-layout: default
----
+# Philip Morris Japan
+  ## Solution Delivey Lead
+• Successfully promoted Agile values, principles, and practices, driving increased efficiency and accelerated delivery timelines.
+• Resolved bottlenecks in product delivery, reducing project delays by 15% and enhancing customer satisfaction.
+• Established streamlined SDLC framework based on industry Agile best practices, resulting in efficient product delivery cycle.
+• Led multiple technical projects aligned with PRDs, ensuring on-time and high-quality delivery.
+• Facilitated daily/weekly/Scrum meetings with cross-functional teams, maximizing alignment and work value.
+• Fostered collaborative environment, promoting transparency and visibility across teams for enhanced coordination and synergy.
+• Assisted in administering task management tools (JIRA/Confluence), ensuring smooth communication and coordination among team
+• Conducted regular risk assessments and implemented mitigation plans, proactively managing risks for improved project outcomes.
+• Achieved 30% reduction in UAT and QA defects through quality assurance and delivery optimization.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Synechron Technologies Pvt Ltd
+  ## Technology Lead
+  • Collaborated with business planning department to monitor and adjust company-wide technology utilization, modifying infrastructure to meet business goals.
+  • Presented business leaders with cost-benefit and return-on-investment estimations to drive project planning and execution.
+  • Analyzed client business processes and its challenges to propose optimal solutions.
+  • Offered technical leadership to junior personnel and other team leaders, providing expertise on.
+  • Lead a Messaging platform initiatives comprises of a team of 15 people to improve productivity and efficiency of call centers customer experience.
+  • Prepared and maintained project budgets and complied with schedules
